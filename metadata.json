@@ -1,0 +1,19 @@
+{
+  "name": "Tether Token",
+  "symbol": "USDT",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "A simulated version of Tether stablecoin",
+  "website": "https://example.com",
+  "logo": {
+    "src": "https://dedmak54.github.io/token-metadata/logo.png
+",
+    "width": 256,
+    "height": 256,
+    "ipfs_hash": ""
+  },
+  "social": {
+    "twitter": "https://twitter.com/example",
+    "telegram": "https://t.me/@DeDiK"
+  }
+}
