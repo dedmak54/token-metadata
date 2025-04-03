@@ -1,0 +1,7 @@
+{
+       "name": "Tether Token",
+       "symbol": "USDT",
+       "description": "A simulated version of Tether stablecoin",
+       "website": "https://example.com",
+       "decimals": 18
+     }
